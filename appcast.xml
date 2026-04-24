@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>PS Transcribe</title>
+    <link>https://raw.githubusercontent.com/cnewfeldt/ps-transcribe-releases/main/appcast.xml</link>
+    <description>PS Transcribe release feed</description>
+    <language>en</language>
+    <item>
+      <title>PS Transcribe 2.1.1</title>
+      <pubDate>Fri, 24 Apr 2026 06:08:36 +0000</pubDate>
+      <sparkle:version>2.1.1</sparkle:version>
+      <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h1>PS Transcribe 2.1.1</h1>
+<h2>What's new</h2>
+<ul>
+<li><strong>Automatic updates.</strong> PS Transcribe now checks for new versions in the background and offers to install them with a single click. You can also trigger a check manually anytime from Settings → Check for Updates.</li>
+</ul>
+<h2>Requirements</h2>
+<p>Apple Silicon Mac running macOS 26 or newer.</p>
+<h2>Install</h2>
+<p>Download the DMG below, open it, and drag PS Transcribe to Applications. First launch downloads the transcription model (~600MB, one-time).</p>
+<p>Note: the source zip files are only the read me. No need to download those.</p>
+      ]]></description>
+      <enclosure url="https://github.com/cnewfeldt/ps-transcribe-releases/releases/download/v2.1.1/PS.Transcribe.dmg" sparkle:edSignature="Z7XiTjvNPTX1JB9AG/RqzwlB0Q6yfbPbkeMS/Qm3lFFCzrcB1RPyAtMWGT88YBwfTPYG8++qQMluyvnDcNr1Bw==" length="4272032" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
