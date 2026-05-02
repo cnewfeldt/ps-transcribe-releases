@@ -6,6 +6,31 @@
     <description>PS Transcribe release feed</description>
     <language>en</language>
     <item>
+      <title>PS Transcribe 2.2.0</title>
+      <pubDate>Sat, 02 May 2026 04:37:20 +0000</pubDate>
+      <sparkle:version>2.2.0</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h1>PS Transcribe 2.2.0</h1>
+<h2>What's new</h2>
+<ul>
+<li>
+<p><strong>Pick your appearance.</strong> A new Appearance setting at the top of Settings lets you choose System, Light, or Dark. System keeps following macOS like before. Pick Light or Dark to lock the app to that mode regardless of your system setting. Changes apply immediately — no restart, no relaunch.</p>
+</li>
+<li>
+<p><strong>Dark mode now reaches the title bar.</strong> When you choose Dark, the main window's title strip flips dark too. Previously the cream paper title bar stayed put even when the rest of the app went dark.</p>
+</li>
+</ul>
+<h2>Requirements</h2>
+<p>Apple Silicon Mac running macOS 26 or newer.</p>
+<h2>Install</h2>
+<p>Download the DMG below, open it, and drag PS Transcribe to Applications. First launch downloads the transcription model (~600MB, one-time).</p>
+<p>Note: the source zip files are only the read me. No need to download those.</p>
+      ]]></description>
+      <enclosure url="https://github.com/cnewfeldt/ps-transcribe-releases/releases/download/v2.2.0/PS.Transcribe.dmg" sparkle:edSignature="Z7XiTjvNPTX1JB9AG/RqzwlB0Q6yfbPbkeMS/Qm3lFFCzrcB1RPyAtMWGT88YBwfTPYG8++qQMluyvnDcNr1Bw==" length="4272032" type="application/octet-stream" />
+    </item>
+    <item>
       <title>PS Transcribe 2.1.1</title>
       <pubDate>Fri, 24 Apr 2026 06:08:36 +0000</pubDate>
       <sparkle:version>2.1.1</sparkle:version>
